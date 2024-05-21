@@ -46,7 +46,7 @@ As the image is downsampled by successive CNN layers, the features stay stable, 
 
 **Keypoint Detection:** identifying and localizing points or features of interest within an image. 
 
-**DensePose Estimation:*8 assigning dense relations between points on the surface of objects and pixels in an image for a detailed understanding of object geometry and texture.
+**DensePose Estimation:** assigning dense relations between points on the surface of objects and pixels in an image for a detailed understanding of object geometry and texture.
 
 ### Below is a list of pre-trained models for each computer vision task provided in the Detectron2 model zoo.
 
@@ -121,11 +121,11 @@ For those of you who also want to use Jupyter notebooks inside their container, 
 # Detectron 2 Real-World Applications
 
 Practically speaking, the real-world applications of Detectron2 are nearly endless. 
-* Autonomous Driving: In self-driving car systems or semi-supervised models, Detectron2 can help to identify pedestrians, road signs, roadways, and vehicles with precision. Tying object detection and recognition to other elements of AI provides a lot of assistance to human drivers. It does not matter whether fully autonomous driving applications are “ready for prime time.”
-* Robotics: A robot’s capabilities are only as good as its computer vision. The ability of robots to move pieces or materials, navigate complex environments, or achieve processing or packaging tasks has to do with what the computer can take individually from image data. With that in mind, Detectron2 is a core part of many robotics frameworks for AI cognition that make these robots such effective helpers.
-* Security: As you can imagine, Detectron2 is also critically helpful in security imaging. A major part of AI security systems involves monitoring and filtering through image data. The better AI can do this, the more capable it is in identifying threats and suspicious activity.
-* Safety Fields: In safety fields, Detectron2 results can help to prevent emergencies, for example, in forest fire monitoring, or flood research. Then, generally, there are a lot of maritime industry applications, and biology research applications, too. Object detection technology helps researchers to observe natural systems and measure goals and objectives.
-* Education: Detectron2 can be a powerful example of applying AI in education to teach its capabilities. As students start to understand how AI entities “see” and start to understand the world around them, it prepares them to live in a world where we increasingly coexist and interact with intelligent machines.
+**Autonomous Driving:** In self-driving car systems or semi-supervised models, Detectron2 can help to identify pedestrians, road signs, roadways, and vehicles with precision. Tying object detection and recognition to other elements of AI provides a lot of assistance to human drivers. It does not matter whether fully autonomous driving applications are “ready for prime time.”
+**Robotics:** A robot’s capabilities are only as good as its computer vision. The ability of robots to move pieces or materials, navigate complex environments, or achieve processing or packaging tasks has to do with what the computer can take individually from image data. With that in mind, Detectron2 is a core part of many robotics frameworks for AI cognition that make these robots such effective helpers.
+**Security:** As you can imagine, Detectron2 is also critically helpful in security imaging. A major part of AI security systems involves monitoring and filtering through image data. The better AI can do this, the more capable it is in identifying threats and suspicious activity.
+**Safety Fields:** In safety fields, Detectron2 results can help to prevent emergencies, for example, in forest fire monitoring, or flood research. Then, generally, there are a lot of maritime industry applications, and biology research applications, too. Object detection technology helps researchers to observe natural systems and measure goals and objectives.
+**Education:** Detectron2 can be a powerful example of applying AI in education to teach its capabilities. As students start to understand how AI entities “see” and start to understand the world around them, it prepares them to live in a world where we increasingly coexist and interact with intelligent machines.
   
 
 ![computer-vision-surveillance-security-applications](https://github.com/Thireshsidda/Intro-to-Detectron2/assets/92287626/2a932e02-db62-44f2-a72e-a37aaa289664)
