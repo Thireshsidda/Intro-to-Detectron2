@@ -3,6 +3,8 @@ The developers of Detectron2 are Meta’s Facebook AI Research (FAIR) team, who 
 
 Detectron2 is a deep learning model built on the Pytorch framework, which is said to be one of the most promising modular object detection libraries being pioneered. Meta has suggested that Detectron2 was created to help with the research needs of Facebook AI under the aegis of FAIR teams – that said, it has been widely adopted in the developer community, and is available to public teams.
 ![detectron2-for-object-detection-and-other-computer-vision-tasks](https://github.com/Thireshsidda/Intro-to-Detectron2/assets/92287626/1473b7b6-e10c-447d-9425-b7ba0849e109)
+##### Meta’s FAIR team developed Detectron2 as a state-of-the-art object detection framework.
+
 
 # Detectron2: What’s Inside? 
 ## Structure
