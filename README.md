@@ -33,5 +33,10 @@ For those of you who also want to use Jupyter notebooks inside their container, 
 * [D2GO_Introduction](D2Go/D2GO_Introduction.ipynb)
 * [D2Go_Train_Microcontroller_Detector](D2Go/D2Go_Train_Microcontroller_Detector.ipynb)
 
+
 ## Author
- **Gilbert Tanner**
+
+👤 **Thiresh Sidda**
+
+* LinkedIn: [@ThireshSidda](https://www.linkedin.com/in/thiresh-sidda)
+* GitHub: [@ThireshSidda](https://github.com/Thireshsidda)
